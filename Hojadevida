@@ -1,0 +1,76 @@
+< html >
+< cabeza >
+< título > HOJA DE VIDA </ título >
+
+
+</ cabeza >
+< body  bgcolor = " # E5D0E4 " >
+< p > < b > < h1 > < fuente > HOJA DE VIDA </ fuente >  </ H1 > </ b > </ P >
+< hr  width = " 600 " TAMAÑO = 18  bgcolor  >
+
+< P > < b > < h2 > DATOS PERSONALES </ h2 > </ b > </ P >
+< TR >
+< TABLE  border = " 1 " width = " 60% " height = " 160 " >
+< TR > < TD > < B > Cédula:   </ B > </ TD >  < TD  > 8-992-1243 </ TD >
+< TD  rowspan = " 14 " > < img  src = " imagen.jpg " ancho = " 170 " alto = " 280 " > </ TD >  </ TR >
+< TR > < TD > < B > Apellidos:   </ B > </ TD >  < TD > Quintero Ortega </ TD >   
+< TR > < TD > < B > Nombres:   </ B > </ TD >  < TD > Yerenys Elizabeth </ TD > 
+< TR > < TD > < B > Nacionalidad:   </ B > </ TD >  < TD > Panameña </ TD > 
+< TR > < TD > < B > Lugar de Nacimiento:   </ B > </ TD >
+  < TD > San Miguelito </ TD > 
+< TR > < TD > < B > Fecha de Nacimiento:   </ B > </ TD >
+  < TD > 26 de febrero de 2003 </ TD > 
+  < TR > < TD > < B > Edad:   </ B > </ TD >
+  < TD > 18 años </ TD > 
+< TR > < TD > < B > Estado Civil:   </ B > </ TD >
+  < TD > Soltera
+< TR > < TD > < B > Dirección:   </ B > </ TD >
+  < TD > Tocumen, Nueva Barriada, Calle 16 de diciembre, casa 77 </ TD >
+< TR > < TD > < B > Correo electrónico:   </ B > </ TD >
+  < TD > yerenysquinteroqgmail.com </ TD > 
+< TR > < TD > < B > Telefono:   </ B > </ TD >
+  < TD > 398-8100 </ TD > 
+< TR > < TD > < B > Celular:   </ B > </ TD >
+  < TD > 6423-8990 </ TD > 
+
+</ TABLE >
+
+< P > < b > < H2 > FORMACIÓN ACADÉMICA </ H2 > </ b > </ P >
+
+< UL >
+
+< BR > < b > Primaria </ b > </ BR >
+ < BR > < li > Escuela Ricardo J. Alfaro </ li > </ BR >
+< BR > < b > Premedia </ b > </ BR >
+ < BR > < li > I.P.T. Jeptha B. Duncan </ li > </ BR >
+< BR > < b > Media </ b > </ BR >
+ < BR > < li > Colegio Elena Chávez de Pinate: Bachiller en Ciencias </ li > </ BR >
+ 
+
+
+< P > < b > < H2 > HABILIDADES </ H2 > </ b > </ P >
+< TABLE  BORDER = " 1 " width = " 49% " height = " 45 " >
+< tr > < td > Responsabilidad  </ TD >  </ tr >
+< tr > < td > Puntualidad </ TD >  </ tr >
+< tr > < td > Capacidad para trabajar en equipo </ TD >  </ tr >
+< tr > < td > Iniciativa  </ TD >  </ tr >
+< tr > < td > Creatividad </ TD >  </ tr >
+< tr > < td > Conocimiento y respeto de las normas </ TD >  </ tr >
+< tr > < td > Positividad </ TD > </ tr >
+</ tabla >
+
+
+< P > < b > < H2 > < b > REFERENCIAS PERSONALES </ H2 > </ b > </ P >
+
+< TABLE  BORDER = " 1 " width = " 49% " height = " 45 " >
+< tr > < td > < b > Madeline Rivera </ b > </ td > < TD > 6254-1901 </ td > </ tr >
+< tr > < td > < b > Alexandra Guzmán </ b > </ td > < TD > 6447-8579 </ td > </ tr >
+< tr > < td > < b > JuanCarlos Barría </ b > </ td > < TD > 6720-7158 </ td > </ tr >
+< tr > < td > < b > Gisselle González </ b > </ td > < TD > 6464-7433 </ td > </ tr >
+< tr > < td > < b > Daniela Moreno </ b > </ td > < TD > 6915-2346 </ td > </ tr >
+</ tabla >
+
+
+</ TABLE >
+</ cuerpo >
+</ html >
